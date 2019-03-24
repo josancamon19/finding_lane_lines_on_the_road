@@ -45,8 +45,6 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 * Then, I calculated x coordinates using y = mx + b and m = (y2-y1)/ (x2-x1)
 * Finally, I drew the lines.
 
-![alt text][image1]
-
 ![alt text][image2]
 
 
