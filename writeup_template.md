@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./examples/image_with_lines.jpg "Image with lines"
+[image2]: ./examples/image_with_lines.png "Image with lines"
 
 ---
 
@@ -42,6 +42,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 * Finally, I drew the lines.
 
 ![alt text][image1]
+
 ![alt text][image2]
 
 
