@@ -1,8 +1,12 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
+In this project, I wrote the code to identify lane lines on the road, first in an image, and later in a video stream (really just a series of images). To complete this project I used the tools that I learned in the lesson.
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+The first goal was to write code including a series of steps (pipeline) that identify and draw the lane lines on a few test images. Once I successfully identifed the lines in an image, I used the code provided to run on a video stream.
+
+Then I refined the pipeline with parameter tuning and by averaging and extrapolating the lines.
+
+Finally, I made a brief writeup report.
 
 ---
 
